@@ -5,8 +5,8 @@ const ECODE = {
   NETWOEK: 3,
   RUNTIME: 4
 }
-
-const mainActConf = [{ gid: '2KAWnD', name: '外卖红包天天领' },{ gid: '2E8EJY', name: '社团20-7' }]
+//{ gid: '2KAWnD', name: '外卖红包天天领' },
+const mainActConf = { gid: '2E8EJY', name: '社团20-7' }
 
 // 抽奖活动
 const lotteryActConfs = [
