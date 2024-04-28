@@ -5,8 +5,8 @@ const ECODE = {
   NETWOEK: 3,
   RUNTIME: 4
 }
-//{ gid: '2KAWnD', name: '外卖红包天天领' },
-const mainActConf = { gid: '2E8EJY', name: '社团20-7' }
+//,
+const mainActConf = { gid: '2KAWnD', name: '外卖红包天天领' }
 
 // 抽奖活动
 const lotteryActConfs = [
@@ -24,10 +24,10 @@ const gundamActConfs = [
 
 // 社群活动
 const wxfwhActConfs = [
-  // { gid: '1C0wLz', name: '天天神券服务号专属福利' },
+  { gid: '1C0wLz', name: '天天神券服务号专属福利' },
   { gid: '2E8EJY', name: '社团20-7' },
   { gid: '1I9uL6', name: '社群专属福利' },
-  { gid: '1HgnjG', name: '神奇福利社' },
+  { gid: '1HgnjG', name: '神奇福利社' }
   
 ]
 
